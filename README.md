@@ -4,9 +4,13 @@ The Car Obstacle Game is a web-based microservice application where the player c
 step 1 : open docker desktop terminal and give path of your directory
 
 cd F:\car-game-new2 <br>
-after changong the directory <br>
+
+after changing the directory <br>
+
 step 2: Build your microservice app <br>
+
 docker-compose up --build <br>
+
 step 3:click on the front end port <br>
 and play the game<br>
 
